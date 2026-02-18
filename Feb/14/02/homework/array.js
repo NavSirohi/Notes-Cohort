@@ -1,2 +1,0 @@
-// Methord of Arrays 
-
