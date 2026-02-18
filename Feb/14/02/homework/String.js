@@ -2,6 +2,8 @@
 
 // Strings are immutable like once declared we can't change them if we chnage them we get the completely new string 
 
+
+
 let name="Nikhil"
 
 console.log(name.length); //6
@@ -85,14 +87,4 @@ console.log(stringAge);
 console.log(typeof stringAge);
 const roles="Backend|Frontend|Devops";
 console.log(roles.split('|')); // returns an array 
-
-
-
-
-
-
-
-
-
-
 
