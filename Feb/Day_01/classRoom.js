@@ -1,7 +1,5 @@
 // // Playing with var and let //
 
-
-
 // // what are the issues with var ? 
 
 // // Block Scope
