@@ -289,4 +289,3 @@ console.log(name.split(0,2)); // gives the array of string
 
 console.log(name.substring(0,3));
 
-
